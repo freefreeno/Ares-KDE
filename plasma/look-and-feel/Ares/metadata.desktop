@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Beautiful dark theme with brownish base and blue selected background colors also with custon wallpaper and icons,and aurorae
+Name=Ares
+X-KDE-PluginInfo-Author=Josh Freeno
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Ares
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/freefreeno/Ares-KDE
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1317249,kns://plasma-themes.knsrc/api.kde-look.org/1317251,kns://aurorae.knsrc/api.kde-look.org/1317252,kns://icons.knsrc/api.kde-look.org/1317124,kns://wallpaper.knsrc/api.kde-look.org/1317083
