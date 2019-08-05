@@ -23,11 +23,11 @@ If you like my project, you can donate at:
 
 ## Donate other ways without actually having to donate
 
-If you like my work and say you don't actually won't to donate but you would like to support me in some way then the absolute best way to do that is download this theme from the location below and not from GitHub.
+If you like my work and say you don't actually want to donate but you would like to support me in some way then the absolute best way to do that is download this theme from the location below and not from GitHub.
 
 https://www.pling.com/p/1317254
 
-and while you there have a look at my page and see what else you like. This would be greatly appreciated. Thanks
+and while your there have a look at my page and see what else you like. This would be greatly appreciated. Thanks
 
 
 ## License
